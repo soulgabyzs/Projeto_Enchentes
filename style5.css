@@ -1,0 +1,98 @@
+*{
+    margin: 0;
+    padding: 0;
+  }
+  header{
+      padding: 40px;
+  }
+  .logo{
+      width: 120px;
+      margin-left: 5%;
+  }
+  .menu a{
+      color: black;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      float: right;
+      display: block;
+      text-align: center;
+      text-decoration: none;
+      padding: 20px;
+      padding-top: 55px;
+      padding-left: 10px;
+    } 
+    .menu a:hover{
+      color: #108f49;
+  }
+  main{ 
+    padding-top: 2px;
+    width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+    .noti{
+      background-image: url(noti.webp);
+      min-height: 360px;
+      background-attachment: fixed;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      color: black;
+      padding: 30px;
+      font-family: 'Belanosima';
+      font-size: 25px;
+      text-align: left;
+      padding-left: 95px;
+      padding-bottom: 50px;
+   }
+  * {
+    box-sizing: border-box;
+  }  
+.column {
+    float: left;
+    width: 25%;
+    padding: 0 10px;
+  }
+  .row {margin: 0 -5px;}
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  @media screen and (max-width: 600px) {
+    .column {
+      width: 100%;
+      display: block;
+      margin-bottom: 20px;
+    }
+  }
+  .card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    padding: 16px;
+    text-align: left;
+    background-color: #e7e4e4;
+  }
+  #abacaxi{
+    color:#66976f;
+    text-align: left;
+    text-decoration: none;
+  }
+  .footer{
+    position: static;
+    text-align: center;
+    height: 200px;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #66976f;
+  }
+  .contato {
+    padding: 40px;
+    color: rgb(0, 0, 0);
+    font-family: 'Belanosima';
+    font-size: 20px;
+    text-align: left;
+    padding-left: 50px;
+  }
+  .contato p{
+    font-size: 17px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
