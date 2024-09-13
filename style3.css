@@ -37,7 +37,7 @@
     text-align: center;
     padding-bottom: 50px;
  }
- .saida{
+ .lista{
   background-color: white;
   color: black;
   padding: 30px;
@@ -47,11 +47,11 @@
   padding-left: 95px;
   padding-bottom: 50px;
 }
-.saida p{
+.lista p{
   font-size: 17px;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
- .terrario{
+ .ong{
   color: black;
   height:400px;
   background-color:#66976f;
@@ -62,11 +62,11 @@
   padding-left: 95px;
   padding-bottom: 50px;
 }
-.terrario p, ul{
+.ong p, ul{
   font-size: 17px;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-.sabão{
+.abrigo{
   background-color:white;
   color: black;
   padding: 30px;
@@ -76,7 +76,7 @@
   padding-left: 95px;
   padding-bottom: 50px;
 }
-.sabão p{
+.abrigo p{
   font-size: 17px;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
