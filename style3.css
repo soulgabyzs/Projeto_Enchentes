@@ -48,11 +48,12 @@
   text-align: left;
   padding-left: 95px;
   padding-bottom: 50px;
+  text-align: justify;
 }
 .ong p, ul{
   font-size: 17px;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  text-align: justify;
+  
 }
  .abrigo{
   color: black;
