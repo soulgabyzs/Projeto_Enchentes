@@ -38,7 +38,7 @@ main{
     color: black; 
   }
 .dica{
-   background-color:#1286A3;
+   background-color:#37abc8;
    font-family: 'Belanosima';font-size: 20px;
    text-align: center;
    padding-left: 50px;
@@ -72,7 +72,7 @@ main{
     background-color: #e7e4e4;
   }
   #abacaxi{
-    color:rgb(129, 192, 129);
+    color:rgb(211, 237, 245);
     text-align: left;
     text-decoration: none;
   }
@@ -83,7 +83,7 @@ main{
   left: 0;
   bottom: 0;
   width: 100%;
-  background-color: #1286A3;
+  background-color: #37abc8;
 }
 .contato {
   padding: 40px;
