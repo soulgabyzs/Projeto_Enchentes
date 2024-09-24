@@ -52,6 +52,7 @@
 .ong p, ul{
   font-size: 17px;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-align: justify;
 }
  .abrigo{
   color: black;
