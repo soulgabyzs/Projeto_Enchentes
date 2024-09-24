@@ -49,6 +49,11 @@
   padding-bottom: 50px;
   
 }
+
+.paragrafo{
+  text-align: justify;
+ 
+}
 .ong p, ul{
   font-size: 17px;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
