@@ -6,7 +6,7 @@ header{
     padding: 40px;
 }
 .logo{
-    width: 140px;
+    width: 160px;
     margin-left: 5%;
 }
 .menu a{
@@ -38,7 +38,7 @@ main{
     color: black; 
   }
 .dica{
-   background-color:#3F803A;
+   background-color:#1286A3;
    font-family: 'Belanosima';font-size: 20px;
    text-align: center;
    padding-left: 50px;
@@ -83,7 +83,7 @@ main{
   left: 0;
   bottom: 0;
   width: 100%;
-  background-color: #3F803A;
+  background-color: #1286A3;
 }
 .contato {
   padding: 40px;
