@@ -32,17 +32,13 @@ header{
 }
 
 .img1{
-  height: 100%;
+  display: block;
 }
 
 * {
     box-sizing: border-box;
   }  
-.column {
-    float: left;
-    width: 25%;
-    padding: 0 10px;
-  }
+
   .row {margin: 0 -5px;}
   .row:after {
     content: "";
