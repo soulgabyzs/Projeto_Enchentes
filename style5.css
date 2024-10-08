@@ -37,14 +37,14 @@
 }
     .noti{
       background-image: url(https://imagens.ebc.com.br/Bo2CZEwo__pTZ5MQ_szk6erMRn4=/1170x700/smart/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/05/07/chuva_no_rio_grande_do_sul1.jpg?itok=QEf3TSZp);
-      min-height: 360px;
+      min-height: 475px;
       background-attachment: fixed;
       background-position: center;
       background-repeat: no-repeat;
       background-size: cover;
       color: rgb(255, 255, 255);
       text-shadow: 4px 4px #000000;
-      padding: 30px;
+      padding-top: 150px;
       font-family: 'Belanosima';
       font-size: 25px;
       text-align: left;

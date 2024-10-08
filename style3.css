@@ -32,14 +32,14 @@ body{
   }
   .projetos{
     background-image: url(https://spriomais.com.br/wp-content/uploads/2024/05/240506_CristineRochol_resgate_SMS-6608-1536x1024.jpg);
-    min-height: 360px;
+    min-height: 200px;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     color: rgb(255, 255, 255);
     text-shadow: 4px 4px #000000;
-    padding: 30px;
+    padding-top: 250px;
     font-family: 'Belanosima';
     font-size: 25px;
     text-align: left;
@@ -47,7 +47,7 @@ body{
     padding-bottom: 50px;
  }
  .ong{
-  background-color: white;
+  background-color: #37abc8;
   color: black;
   padding: 30px;
   font-family: 'Belanosima';
@@ -64,7 +64,7 @@ body{
  .abrigo{
   color: black;
   height:400px;
-  background-color:#37abc8;
+  background-color:white;
   padding: 30px;
   font-family: 'Belanosima';
   font-size: 25px;
@@ -78,7 +78,7 @@ body{
   text-align: justify;
 }
 .projvolun{
-  background-color:white;
+  background-color:#37abc8;
   color: black;
   padding: 30px;
   font-family: 'Belanosima';
