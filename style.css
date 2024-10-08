@@ -30,30 +30,11 @@ header{
     color: #7ABCE8;
     transform: scale(1.1);
 }
-main{ 
-    width: 100%;
-    font-family: Arial, Helvetica, sans-serif;
-}
-
-.bottom-rigth{ 
-    font-family: 'Belanosima';font-size: 25px;
-    position: absolute;
-    bottom: 80px;
-    right: 16px; 
-    color: black; 
-  }
 
 .img1{
   height: 100%;
-  object-fit: cover;
 }
-.dica{
-  background-color:#37abc8;
-  font-family: 'Belanosima';font-size: 20px;
-  text-align: center;
-  padding-left: 50px;
-  padding-bottom: 50px;
-}
+
 * {
     box-sizing: border-box;
   }  
@@ -75,45 +56,8 @@ main{
       margin-bottom: 20px;
     }
   }
-  .card {
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-    padding: 16px;
-    text-align: left;
-    background-color: #e7e4e4;
-  }
-  #abacaxi{
-    color:rgb(211, 237, 245);
-    text-align: left;
-    text-decoration: none;
-  }
-.footer{
-  position: static;
-  text-align: center;
-  height: 200px;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-  background-color: #37abc8;
-}
-.contato {
-  padding: 40px;
-  color: rgb(0, 0, 0);
-  font-family: 'Belanosima';
-  font-size: 20px;
-  text-align: left;
-  padding-left: 50px;
-}
-.contato p{
-  font-size: 17px;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
-.container {
-  display: flex;
-  flex-wrap: wrap;
-}
-.item {
-  flex: 1 1 200px;
-}
+
+
 @media (max-width: 768px) {
   .container {
     flex-direction: column;
