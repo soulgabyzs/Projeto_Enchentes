@@ -114,15 +114,41 @@ body{
     font-size: 17px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
  }
- .container {
-  display: flex;
-  flex-wrap: wrap;
-}
-.item {
-  flex: 1 1 200px;
-}
-@media (max-width: 768px) {
-  .container {
-    flex-direction: column;
-  }
-}
+
+ /* Responsividade *//* Para dispositivos maiores que 768px (como tablets e desktops) */
+ @media (min-width: 768px) {
+     .container {     width: 80%;     
+      margin: auto;   }  
+      /* Ajuste no padding dos textos para desktops */
+      .projetos, .ong, .abrigo, .projvolun {     
+        padding-left: 95px;     
+        padding-right: 500px;   
+      } }
+      
+/* Para dispositivos menores que 768px (como smartphones) */
+      
+  @media (max-width: 767px) { 
+      .container {     
+        width: 100%;     
+        padding: 20px;   
+      }   
+      /* Ajustes de layout para melhorar visualização em smartphones */
+      header {     
+        padding: 20px;   
+      }   
+      .menu a {     
+        float: none;    
+        padding: 10px;     
+        font-size: 18px;  
+         }   
+         .projetos, .ong, .abrigo, .projvolun {     
+          padding-left: 20px;     
+          padding-right: 20px; 
+          font-size: 20px; } 
+          /* Ajustes para o texto ficar proporcional em telas menores */
+          .ong p, .abrigo p, .projvolun p { 
+            font-size: 15px; 
+          } .footer { 
+            height: 150px; 
+          } 
+        }
