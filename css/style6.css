@@ -28,6 +28,10 @@ header{
 * {
   box-sizing: border-box;
 }
+
+.mapa1{
+  text-align: center;
+}
 .column {
   float: left;
   width: 25%;
