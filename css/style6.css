@@ -32,6 +32,11 @@ header{
 .mapa1{
   text-align: center;
 }
+
+.mapa2{
+  margin-top: 100px;
+  text-align: center;
+}
 .column {
   float: left;
   width: 25%;
