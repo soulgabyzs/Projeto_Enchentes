@@ -32,12 +32,35 @@ header{
 }
 
 .mapa1{
+  display: inline-block;
+  border: 4px solid #1d211d; 
+  padding: 5px;
+  margin: 20px;
   text-align: center;
+  max-width: 470px;
+  border-radius: 10px;
+}
+
+img{
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+figcaption {
+  margin-top: 5px;
+  font-size: 14px;
+  color: #555;
 }
 
 .mapa2{
-  margin-top: 100px;
+  display: inline-block;
+  border: 4px solid #2e312e; 
+  padding: 4px;
+  margin: 20px;
   text-align: center;
+  max-width: 670px;
+  border-radius: 10px;
 }
 .column {
   float: left;
