@@ -15,7 +15,7 @@ header{
     margin-left: 5%;
 }
 .menu a{
-    color: #7ABCE8;
+    color: black;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     float: right;
     display: block;
@@ -28,6 +28,7 @@ header{
   }
 .menu a:hover{
     opacity: 0.7;
+    color: #7ABCE8;
 
 }
 
