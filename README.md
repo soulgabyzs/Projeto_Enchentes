@@ -8,11 +8,11 @@
 
 >INTEGRANTES
 
-+ Bernardo Nassr Conte - bernardonc07
-+ Gabriela Monterosso - soulgabyzs
-+ Gabrielle Beus - ellebeus
-+ Joan Nassr Conte - joannc07
-+ Lucas Munhoz Jacobsen - Lucas-Jacobsen-Munhoz
++ Bernardo Nassr Conte - <strong>bernardonc07</strong>
++ Gabriela Monterosso - <strong>soulgabyzs</strong>
++ Gabrielle Beus - <strong>ellebeus</strong>
++ Joan Nassr Conte - <strong>joannc07</strong>
++ Lucas Munhoz Jacobsen - <Strong>Lucas-Jacobsen-Munhoz </strong>
 
 
 <br>
