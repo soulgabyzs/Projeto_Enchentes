@@ -15,7 +15,7 @@ header{
     margin-left: 5%;
 }
 .menu a{
-    color: black;
+    color: #000000;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     float: right;
     display: block;
@@ -24,11 +24,12 @@ header{
     padding: 20px;
     padding-top: 55px;
     padding-left: 10px;
-    transition: transform 0.3s, color 0.3s;
+    transition: 0.3s;
   }
 .menu a:hover{
-    color: #7ABCE8;
-    transform: scale(1.1);
+  color: #7ABCE8;
+  transform: scale(1.1);
+
 }
 
 .img1{
