@@ -2,7 +2,15 @@
 
 >PROJETO
 
-+ O projeto aborda a criação de um site sobre a catástrofe ocorrida no Rio Grande do Sul, a qual teve início no final de abril. No software, são apresentadas instituições e ONGs que atuaram durante o desastre climático, notícias, ações realizadas, relatos, entre outros aspectos relacionados ao evento. O objetivo do trabalho é dar visibilidade aos grupos e indivíduos que se envolveram ou ainda estão envolvidos no apoio a milhares de pessoas afetadas pela enchente.
++ O projeto aborda a criação de um site sobre a catástrofe ocorrida no Rio Grande do Sul, a qual teve início no final de abril. No software, são apresentadas instituições e ONGs que atuaram durante o desastre climático, notícias, ações realizadas, relatos, entre outros aspectos relacionados ao evento.
+
+<br>
+
+ >OBJETIVO
+
+ + O objetivo do trabalho é dar visibilidade aos grupos e indivíduos que se envolveram ou ainda estão envolvidos no apoio a milhares de pessoas afetadas pela enchente.
+
+
 <br>
 
 
@@ -51,6 +59,14 @@
 
 
 <img witdh = "50" height = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+
+
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
+
+<img witdh = "50" height = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+          
+          
           
           
 
@@ -60,3 +76,8 @@
 >INSTALAÇÃO
 
 + Para instalar o site em seu dispositivo, vá até o canto superior direito da tela, onde está escrito "Code", em inglês, ou "Código", em português. Após clicar no botão verde, selecione "Download ZIP" para baixar a versão compactada. Em seguida, clique com o botão direito no arquivo baixado e escolha "Extrair aqui". Após a extração, você terá a pasta do software, onde encontrará o documento chamado "index", que, por fim, executará o site.
+
+<br>
+
+>FOTOS DO SITE EM DESENVOLVIMENTO
+
