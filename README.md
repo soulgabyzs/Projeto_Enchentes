@@ -77,9 +77,9 @@
 
 + Para instalar o site em seu dispositivo, vá até o canto superior direito da tela, onde está escrito "Code", em inglês, ou "Código", em português. Após clicar no botão verde, selecione "Download ZIP" para baixar a versão compactada. Em seguida, clique com o botão direito no arquivo baixado e escolha "Extrair aqui". Após a extração, você terá a pasta do software, onde encontrará o documento chamado "index", que, por fim, executará o site.
 
-<br>
+<br><br>
 
 >FOTOS DO SITE EM DESENVOLVIMENTO
 
-<img witdh = "50" height = "50" src="site.png" />
+<img width="946" alt="site" src="https://github.com/user-attachments/assets/0f67041f-9a31-493c-b64c-39e6f82db519">
 
