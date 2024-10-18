@@ -2,8 +2,7 @@
 
 >PROJETO
 
-+ Este projeto visa criar um site interativo com notícias, entrevistas e informações sobre as enchentes e sobre as ONGs que atuaram durante esse período da catástrofe no Rio Grande do Sul.
-
++ O projeto aborda a criação de um site sobre a catástrofe ocorrida no Rio Grande do Sul, a qual teve início no final de abril. No software, são apresentadas instituições e ONGs que atuaram durante o desastre climático, notícias, ações realizadas, relatos, entre outros aspectos relacionados ao evento. O objetivo do trabalho é dar visibilidade aos grupos e indivíduos que se envolveram ou ainda estão envolvidos no apoio a milhares de pessoas afetadas pela enchente.
 <br>
 
 >INTEGRANTES
