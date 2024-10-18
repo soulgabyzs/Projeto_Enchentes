@@ -81,3 +81,5 @@
 
 >FOTOS DO SITE EM DESENVOLVIMENTO
 
+<img witdh = "50" height = "50" src="site.png" />
+
