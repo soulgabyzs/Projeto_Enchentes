@@ -6,6 +6,12 @@
 
 <br>
 
+>ÁEA DO CONHECIMENTO E TEMA
++ Ciências Humanas / Geografia, História e Sociologia
++ Ciências da Natureza / Biologia
+  
+<br>
+
  >OBJETIVO
 
  + O objetivo do trabalho é dar visibilidade aos grupos e indivíduos que se envolveram ou ainda estão envolvidos no apoio a milhares de pessoas afetadas pela enchente.
@@ -76,6 +82,17 @@
 >INSTALAÇÃO
 
 + Para instalar o site em seu dispositivo, vá até o canto superior direito da tela, onde está escrito "Code", em inglês, ou "Código", em português. Após clicar no botão verde, selecione "Download ZIP" para baixar a versão compactada. Em seguida, clique com o botão direito no arquivo baixado e escolha "Extrair aqui". Após a extração, você terá a pasta do software, onde encontrará o documento chamado "index", que, por fim, executará o site.
+
+<br>
+
+>HISTÓRICO DO PROJETO
+
+| FASE                | DATA       | DESCRIÇÃO                         |
+| ------------------- |------------|-----------------------------------|
+| Inicio do projeto   | DD/MM/AAAA | Inicio da concepção do site       |
+| Fase 1              | DD/MM/AAAA | Desenvolvimento do protótipo      |
+| Fase 2              | DD/MM/AAAA | Implementação das funcionalidades |
+| Finalização         | DD/MM/AAAA | Ajustes finais e testes           |
 
 <br><br>
 
