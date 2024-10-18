@@ -6,7 +6,7 @@
 
 <br>
 
->ÁEA DO CONHECIMENTO E TEMA
+>ÁEA DO CONHECIMENTO
 + Ciências Humanas / Geografia, História e Sociologia
 + Ciências da Natureza / Biologia
   
