@@ -25,10 +25,10 @@
 | Estudante             | GITHUB                 | GMAIL                             |
 | --------------------  |------------------------|-----------------------------------|
 | Bernardo Nassr Conte  | bernardonc07           | bernardoncsenac@gmail.com         |
-| Gabriela Monterosso   | soulgabyzs             |                                   |
+| Gabriela Monterosso   | soulgabyzs             | g.ferreira.aleixo@gmail.com       |
 | Gabrielle Beus        | ellebeus               | gabriellebeus92@gmail.com         |
 | Joan Nassr Conte      | joannc07               | joanncsenac@gmail.com             |
-| Lucas Munhoz Jacobsen | Lucas-Jacobsen-Munhoz  | lucasmunhozjacobsen@gmail.com
+| Lucas Munhoz Jacobsen | Lucas-Jacobsen-Munhoz  | lucasmunhozjacobsen@gmail.com     |
 
 <br><br>
 
@@ -80,13 +80,13 @@
 <br><br><br>
 
 
->INSTALAÇÃO
+> 💾 INSTALAÇÃO
 
 + Para instalar o site em seu dispositivo, vá até o canto superior direito da tela, onde está escrito "Code", em inglês, ou "Código", em português. Após clicar no botão verde, selecione "Download ZIP" para baixar a versão compactada. Em seguida, clique com o botão direito no arquivo baixado e escolha "Extrair aqui". Após a extração, você terá a pasta do software, onde encontrará o documento chamado "index", que, por fim, executará o site.
 
 <br><br>
 
->HISTÓRICO DO PROJETO
+> ⏱️ HISTÓRICO DO PROJETO
 
 | FASE                | DATA       | DESCRIÇÃO                         |
 | ------------------- |------------|-----------------------------------|
