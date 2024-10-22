@@ -1,37 +1,38 @@
 ### <h1>Projeto Enchentes</h1>
 
->PROJETO
+> 📂 PROJETO
 
 + O **Projeto Enchentes - ECOBIO** aborda a criação de um site sobre a catástrofe ocorrida no Rio Grande do Sul, a qual teve início no final de abril. No software, são apresentadas instituições e ONGs que atuaram durante o desastre climático, notícias, ações realizadas, relatos, entre outros aspectos relacionados ao evento.
 
-<br>
+<br><br>
 
->ÁEA DO CONHECIMENTO
+> 📖 ÁREA DO CONHECIMENTO
 + Ciências Humanas / Geografia, História e Sociologia
 + Ciências da Natureza / Biologia
   
-<br>
+<br><br>
 
- >OBJETIVO
+ > 🎯 OBJETIVO
 
  + O objetivo do trabalho é dar visibilidade aos grupos e indivíduos que se envolveram ou ainda estão envolvidos no apoio a milhares de pessoas afetadas pela enchente.
 
 
-<br>
+<br><br>
 
 
->INTEGRANTES I ------------------- I GITHUB
+> 👥 INTEGRANTES E CONTATO 
 
-+ Bernardo Nassr Conte - <strong>bernardonc07</strong>
-+ Gabriela Monterosso - <strong>soulgabyzs</strong>
-+ Gabrielle Beus - <strong>ellebeus</strong>
-+ Joan Nassr Conte - <strong>joannc07</strong>
-+ Lucas Munhoz Jacobsen - <Strong>Lucas-Jacobsen-Munhoz </strong>
+| Estudante             | GITHUB                 | GMAIL                             |
+| --------------------  |------------------------|-----------------------------------|
+| Bernardo Nassr Conte  | bernardonc07           | bernardoncsenac@gmail.com         |
+| Gabriela Monterosso   | soulgabyzs             |                                   |
+| Gabrielle Beus        | ellebeus               | gabriellebeus92@gmail.com         |
+| Joan Nassr Conte      | joannc07               | joanncsenac@gmail.com             |
+| Lucas Munhoz Jacobsen | Lucas-Jacobsen-Munhoz  | lucasmunhozjacobsen@gmail.com
 
+<br><br>
 
-<br>
-
->LINGUAGENS
+> 👨‍💻 LINGUAGENS
 
 <div - display = "Inline">
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
@@ -46,9 +47,9 @@
 
 <img width = '50' height = '50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 
-<br><br>
+<br><br><br>
 
->BANCO DE DADOS
+> 🔧 BANCO DE DADOS
 
 
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
@@ -57,9 +58,9 @@
 <img witdh = "50" height = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
           
 
-<br><br>
+<br><br><br>
 
->AMBIENTE DE TRABALHO
+> 👨‍💼 AMBIENTE DE TRABALHO
 
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
@@ -76,14 +77,14 @@
           
           
 
-<br><br>
+<br><br><br>
 
 
 >INSTALAÇÃO
 
 + Para instalar o site em seu dispositivo, vá até o canto superior direito da tela, onde está escrito "Code", em inglês, ou "Código", em português. Após clicar no botão verde, selecione "Download ZIP" para baixar a versão compactada. Em seguida, clique com o botão direito no arquivo baixado e escolha "Extrair aqui". Após a extração, você terá a pasta do software, onde encontrará o documento chamado "index", que, por fim, executará o site.
 
-<br>
+<br><br>
 
 >HISTÓRICO DO PROJETO
 
@@ -94,9 +95,9 @@
 | Fase 2              | DD/MM/AAAA | Implementação das funcionalidades |
 | Finalização         | DD/MM/AAAA | Ajustes finais e testes           |
 
-<br><br>
+<br><br><br>
 
->FOTOS DO SITE EM DESENVOLVIMENTO
+> 💻 FOTOS DO SITE EM DESENVOLVIMENTO
 
 <img width="946" alt="site" src="https://github.com/user-attachments/assets/0f67041f-9a31-493c-b64c-39e6f82db519">
 
