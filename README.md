@@ -2,7 +2,7 @@
 
 >PROJETO
 
-+ O projeto aborda a criação de um site sobre a catástrofe ocorrida no Rio Grande do Sul, a qual teve início no final de abril. No software, são apresentadas instituições e ONGs que atuaram durante o desastre climático, notícias, ações realizadas, relatos, entre outros aspectos relacionados ao evento.
++ O **Projeto Enchentes - ECOBIO** aborda a criação de um site sobre a catástrofe ocorrida no Rio Grande do Sul, a qual teve início no final de abril. No software, são apresentadas instituições e ONGs que atuaram durante o desastre climático, notícias, ações realizadas, relatos, entre outros aspectos relacionados ao evento.
 
 <br>
 
