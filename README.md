@@ -89,7 +89,7 @@
 
 | FASE                | DATA       | DESCRIÇÃO                         |
 | ------------------- |------------|-----------------------------------|
-| Inicio do projeto   | DD/MM/AAAA | Inicio da concepção do site       |
+| Inicio do projeto   | 10/09/2024 | Inicio da concepção do site       |
 | Fase 1              | DD/MM/AAAA | Desenvolvimento do protótipo      |
 | Fase 2              | DD/MM/AAAA | Implementação das funcionalidades |
 | Finalização         | DD/MM/AAAA | Ajustes finais e testes           |
