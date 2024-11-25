@@ -50,16 +50,10 @@
 
 <br><br><br>
 
-> 🔧 BANCO DE DADOS
 
-
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-          
-          
-<img witdh = "50" height = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
           
 
-<br><br><br>
+
 
 > 👨‍💼 AMBIENTE DE TRABALHO
 
